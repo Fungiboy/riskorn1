@@ -1,0 +1,14 @@
+C:\Users\lukas.austrell\source\repos\Riskorn\bin\Debug\net7.0\Riskorn.exe
+C:\Users\lukas.austrell\source\repos\Riskorn\bin\Debug\net7.0\Riskorn.deps.json
+C:\Users\lukas.austrell\source\repos\Riskorn\bin\Debug\net7.0\Riskorn.runtimeconfig.json
+C:\Users\lukas.austrell\source\repos\Riskorn\bin\Debug\net7.0\Riskorn.dll
+C:\Users\lukas.austrell\source\repos\Riskorn\bin\Debug\net7.0\Riskorn.pdb
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\Riskorn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\Riskorn.AssemblyInfoInputs.cache
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\Riskorn.AssemblyInfo.cs
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\Riskorn.csproj.CoreCompileInputs.cache
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\Riskorn.dll
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\refint\Riskorn.dll
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\Riskorn.pdb
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\Riskorn.genruntimeconfig.cache
+C:\Users\lukas.austrell\source\repos\Riskorn\obj\Debug\net7.0\ref\Riskorn.dll
